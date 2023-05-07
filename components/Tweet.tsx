@@ -5,7 +5,6 @@ import { TweetType } from "../types";
 import { Entypo, EvilIcons } from "@expo/vector-icons";
 import IconButton from "./IconButton";
 import { Link } from "expo-router";
-
 type TweetProps = {
   tweet: TweetType;
 };
